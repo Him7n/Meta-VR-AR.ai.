@@ -5,10 +5,11 @@ module.exports = {
   solidity: "0.8.24",
 
   networks: {
-    sepolia: {
-      url: `https://eth-sepolia.g.alchemy.com/v2/3WdzvbCk1-POpM6tIjHHIXIcm5MGG1-d`,
-      accounts: ["1b154517a72674badf7268f46d7cceacd09066dd96f31aec1fdb1d69769208e6"],
+    'lisk-sepolia': {
+      url: 'https://rpc.sepolia-api.lisk.com',
+            accounts: ["1a6753688d53778624e3e0a4cccb820a6c2e1702bcbda4d89084d7db2d9f07e2"],
+            gasPrice: 1000000000,
     },
   },
 };
-``
+// 0x13cD521041BFf183c3eFc73AB45ef05C1247c207
