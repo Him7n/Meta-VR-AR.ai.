@@ -111,7 +111,7 @@ We welcome contributions from developers, designers, and creators to enhance the
 
 ## Contract address
  0xD663f267A074CE8A3580872DbD953981F4d83029
-https://sepolia.etherscan.io/address/0xd663f267a074ce8a3580872dbd953981f4d83029
+https://sepolia-blockscout.lisk.com/address/0x13cD521041BFf183c3eFc73AB45ef05C1247c207
 ## License
 Meta-AR-VR.ai is licensed under the MIT License. See the LICENSE file for details.
 
